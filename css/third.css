@@ -1,0 +1,18 @@
+.thirdcard {
+    color: rgb(165, 26, 117);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 5%;
+    display: grid;
+}
+
+.socialmedia {
+    display: grid;
+    padding-top: 20px;
+}
+
